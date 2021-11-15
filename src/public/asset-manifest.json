@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ee22e79a.chunk.css",
+    "main.js": "/static/js/main.b7570e2e.chunk.js",
+    "main.js.map": "/static/js/main.b7570e2e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f7313c7c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f7313c7c.js.map",
+    "static/js/2.25000366.chunk.js": "/static/js/2.25000366.chunk.js",
+    "static/js/2.25000366.chunk.js.map": "/static/js/2.25000366.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.ee22e79a.chunk.css.map": "/static/css/main.ee22e79a.chunk.css.map",
+    "static/js/2.25000366.chunk.js.LICENSE.txt": "/static/js/2.25000366.chunk.js.LICENSE.txt",
+    "static/media/a.adc6a0ee.png": "/static/media/a.adc6a0ee.png",
+    "static/media/books.cd4c83bd.png": "/static/media/books.cd4c83bd.png",
+    "static/media/img-404.9e5d52c0.png": "/static/media/img-404.9e5d52c0.png",
+    "static/media/styles.scss": "/static/media/img-biblio.3b25e504.png",
+    "static/media/img-libro.71459d9a.png": "/static/media/img-libro.71459d9a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f7313c7c.js",
+    "static/js/2.25000366.chunk.js",
+    "static/css/main.ee22e79a.chunk.css",
+    "static/js/main.b7570e2e.chunk.js"
+  ]
+}
